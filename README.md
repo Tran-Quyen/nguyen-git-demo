@@ -130,6 +130,12 @@ git checkout  <branch_name>
 git branch
 ```
 
+### Xoa nhanh
+
+```
+git branch -D <branch_name>
+```
+
 ### .gitignore
 
 - Giup chung ta danh dau cac file k0 can thiet de push len remote
