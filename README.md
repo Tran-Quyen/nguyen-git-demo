@@ -2,10 +2,16 @@
 
 ## Cac lenh git thuong duoc su dung
 
-### Clone repository from remote repository to local repository
+### Clone repository tu remote repository den local repository
 
 ```
 git clone <remote_repo_url>
+```
+
+### Dong bo code tu remote repository ve local repository
+
+```
+git pull
 ```
 
 ### Chuyen tu trang thai Changes (Red) => Staged Changes (Green)
