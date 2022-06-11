@@ -20,6 +20,10 @@ git pull
 git add .
 ```
 
+```
+git add *
+```
+
 ### Kiem tra trang thai cua cac file hien hanh
 
 ```
@@ -58,5 +62,49 @@ git push origin master
 
 ```
 git push origin master -f
+```
+
+### Xem thong tin commit cu the
+
+```
+git show <commit_id>
+```
+
+```
+gitk
+```
+
+### So sanh cac commit
+
+```
+git diff <commit_id>
+```
+
+```
+git diff <commit_id_1> <commit_id_2>
+```
+
+### Dua trang thai cac file tu Staged Changes (Green) => Changes (Red)
+
+```
+git reset
+```
+
+```
+git reset <file>
+```
+
+```
+git restore --staged <file>
+```
+
+### Dua tu trang thai COMMITS => Staged Changes (Green)
+
+```
+git revert
+```
+
+```
+git revert <commit_id>
 ```
 
