@@ -1,0 +1,4 @@
+# Cac folder va file k0 muon up len (Security)
+node_modules
+build
+.env
