@@ -136,6 +136,13 @@ git branch
 git branch -D <branch_name>
 ```
 
+### Config alias de viet nhanh hon
+
+```
+git config --global alias.co checkout
+```
+
+
 ### .gitignore
 
 - Giup chung ta danh dau cac file k0 can thiet de push len remote
