@@ -189,7 +189,7 @@ git config --global alias.co checkout
 - Checkout ve master + pull code moi nhat ve
   $ git co master
   $ git pull
-- Checkout sang nhanh bi conflict + su dung rebase
+- Checkout sang nhanh bi conflict + su dung merge
   $ git br
   $ git co [conflict_branch]
   $ git br
