@@ -156,7 +156,7 @@ git config --global alias.co checkout
 5. Tu review lai code, Duoc phe duyet thi merge (Neu co loi thi toi buoc 6)
 6. Neu co loi xay ra can fix thi chung ta can:
    1. Ve VSCode xu ly loi
-   2. git add, commit --amend, push origin [current_branch] -f
+   2. git add, commit --amend -m "message", push origin [current_branch] -f
 7. Quay lai buoc 5
 8. Can tao PR khac de fix PR truoc (it gap)
 
