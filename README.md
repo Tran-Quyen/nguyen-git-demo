@@ -167,7 +167,7 @@ git config --global alias.co checkout
 1. Change same file + same line
 2. A deleted file X, B modified file X
 
-#### Method 1: Use Rebase
+#### Method 1: Use rebase
 
 - Checkout ve master + pull code moi nhat ve
   $ git co master
